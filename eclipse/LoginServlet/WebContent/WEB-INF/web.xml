@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>ServletDemo</servlet-class>
+    </servlet>
+    <servlet-maping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-maping>

@@ -1,0 +1,312 @@
+/* CSS Document */
+body
+{
+/*background-image:url(../images/green-abstract-background.jpg);
+background-repeat:no-repeat;
+*/
+background-position:left top;
+background:url('../images/green-abstract-background.jpg') repeat fixed;
+}
+
+.mobileno
+{
+font-family:Verdana;
+font-size:13px;
+color:#12A2FF;
+font-weight:500;
+}
+.cotation
+{
+font-family:Verdana;
+font-size:9px;
+font-weight:bold;
+color:#2177A7;
+}
+.butons
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#12A2FF;
+}
+.textbox
+{
+font-family:Verdana;
+font-size:12px;
+font-weight:400;
+color:#757272;
+}
+.cotation_sec
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:8px;
+color:#999999;
+font-weight:400;
+}
+/*.tableboder
+{
+border-color:#EFEFEF;
+border-style:solid;
+border-width:1px;
+}
+.tableboder1
+{
+border-color:#EFEFEF;
+border-style:solid;
+border-width:1px;
+}*/
+
+.heading
+{
+font-family:Verdana;
+font-size:15px;
+color:#1598F7;
+font-weight:500;
+padding-left:9px;
+line-height:16px;
+}
+.text
+{
+font-family:Verdana;
+font-size:11px;
+color:#7F7F7F;
+font-weight:200;
+line-height:16px;
+padding-left:9px;
+padding-right:10px;
+}
+.text_bold
+{
+font-family:Verdana;
+font-size:11px;
+color:#7F7F7F;
+font-weight:bold;
+line-height:16px;
+}
+.news
+{
+font-family:Verdana;
+font-size:11px;
+color:#7F7F7F;
+font-weight:200;
+line-height:16px;
+}
+.date
+{
+font-family:Verdana;
+font-size:10px;
+color:#3D84C1;
+font-weight:500;
+}
+.futer_bg
+{
+background-image:url(../images/futer.gif);
+background-repeat:no-repeat;
+height:56px;
+width:846px;
+}
+.futertext
+{
+font-family:Verdana;
+font-size:11px;
+color:#FFFFFF;
+font-weight:300;
+}
+.futer_rolover
+{
+font-family:Verdana;
+font-size:11px;
+font-weight:300;
+color:#FFFFFF;
+text-decoration:none;
+}
+.futer_rolover:hover
+{
+font-family:Verdana;
+font-size:11px;
+font-weight:300;
+color:#BC8650;
+text-decoration:underline;
+}
+.click
+{
+font-family:"Swis721 BT";
+font-size:11px;
+color:#B79409;
+font-weight:700;
+}
+.click:hover
+{
+font-family:"Swis721 BT";
+font-size:11px;
+color:#63BBF4;
+font-weight:700;
+}
+.cost
+{
+font-family:Verdana;
+font-size:10px;
+font-weight:600;
+color:#606162;
+padding-left:9px;
+}
+.contactus
+{
+font-family:Verdana;
+font-size:13px;
+color:#464747;
+font-weight:600;
+}
+.shashi
+{
+font-family:Verdana;
+font-size:12px;
+color:#575757;
+font-weight:300;
+line-height:16px;
+}
+.shekhar
+{
+font-family:Verdana;
+font-size:11px;
+color:#96805B;
+font-weight:500;
+line-height:17px;
+}
+.text_box_new
+{
+font-family:Verdana;
+font-size:10px;
+color:#999999;
+font-weight:400;
+line-height:16px;
+width:130px;
+height:16px;
+}
+.sutext
+{
+font-family:Verdana;
+font-size:12px;
+color:#4290AD;
+font-weight:500;
+padding-left:9px;
+}
+.text_second
+{
+font-family:Verdana;
+font-size:11px;
+color:#7F7F7F;
+font-weight:200;
+line-height:16px;
+padding-left:2px;
+padding-right:10px;
+}
+.sitmap
+{
+font-family:Verdana;
+font-size:13px;
+color:#767676;
+font-weight:300px;
+}
+.news_date
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#990000;
+font-weight:300;
+}
+.textblack
+{
+font-family:Verdana;
+font-size:11px;
+color:#030600;
+font-weight:200;
+line-height:16px;
+padding-left:4px;
+padding-right:5px;
+}
+
+/**************/
+.button{text-decoration:none; text-align:center;
+ padding:10px 31px;
+ border:solid 1px #78b3cc;
+ -webkit-border-radius:0px 15px 0px 15px; 	 				 border-radius: 0px 15px 0px 15px; 					-moz-border-radius-topleft:0px; 					-moz-border-radius-topright:15px; 					-moz-border-radius-bottomleft:15px; 					-moz-border-radius-bottomright:0px;
+ font:18px "Times New Roman", Times, serif;
+ font-weight:bold;
+ color:#e5ffff;
+ background:#3ba4c7;
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+  }.button:hover{
+ padding:10px 31px;
+ border:solid 1px #78b3cc;
+ -webkit-border-radius:0px 15px 0px 15px; 	 				 border-radius: 0px 15px 0px 15px; 					-moz-border-radius-topleft:0px; 					-moz-border-radius-topright:15px; 					-moz-border-radius-bottomleft:15px; 					-moz-border-radius-bottomright:0px;
+ font:18px "Times New Roman", Times, serif;
+ font-weight:bold;
+ color:#ffffff;
+ background-color:#655ccc;
+ background-image: -moz-linear-gradient(top, #655ccc 0%, #3ba4c7 100%);
+ background-image: -webkit-linear-gradient(top, #655ccc 0%, #3ba4c7 100%);
+ background-image: -o-linear-gradient(top, #655ccc 0%, #3ba4c7 100%);
+ background-image: -ms-linear-gradient(top, #655ccc 0% ,#3ba4c7 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ba4c7', endColorstr='#3ba4c7',GradientType=0 );
+ background-image: linear-gradient(top, #655ccc 0% ,#3ba4c7 100%);
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+ }.button:active{
+ padding:10px 31px;
+ border:solid 1px #78b3cc;
+ -webkit-border-radius:0px 15px 0px 15px; 	 				 border-radius: 0px 15px 0px 15px; 					-moz-border-radius-topleft:0px; 					-moz-border-radius-topright:15px; 					-moz-border-radius-bottomleft:15px; 					-moz-border-radius-bottomright:0px;
+ font:18px "Times New Roman", Times, serif;
+ font-weight:bold;
+ color:#e5ffff;
+ background:#3ba4c7;
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+ }
+
+ .table1
+{
+    border: 10px solid #2177A7;
+
+}
+.table1 tr,td,th
+{
+    border: 0px;
+}
+.textfield1
+{
+	width:200px;
+	height:30px;
+}
+.button1
+{
+	width:100px;
+	height:35px;
+	background:#0066FF;
+	border-radius:20px;
+	cursor:pointer;
+}
+  .textfieldi2
+ {
+ 	background-image:url(../images/tfimage1.png);
+	background-repeat:no-repeat;
+	padding-left:22px;
+ 	width:200px;
+	height:30px;
+ }
+  .textfieldip
+ {
+ 	background-image:url(../images/tfimage2.jpg);
+	background-repeat:no-repeat;
+	padding-left:22px;
+ 	width:200px;
+	height:30px;
+ }

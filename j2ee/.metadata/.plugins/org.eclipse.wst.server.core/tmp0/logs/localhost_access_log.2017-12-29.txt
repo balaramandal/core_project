@@ -1,0 +1,8 @@
+127.0.0.1 - - [29/Dec/2017:14:28:16 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:28:21 +0530] "GET /SecondApp/ HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:28:21 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:28:29 +0530] "POST /SecondApp/verification.jsp HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:59:34 +0530] "GET /SecondApp/ HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:59:44 +0530] "POST /SecondApp/verification.jsp HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:14:59:50 +0530] "POST /SecondApp/verification.jsp HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:15:00:03 +0530] "POST /SecondApp/verification.jsp HTTP/1.1" 200 738

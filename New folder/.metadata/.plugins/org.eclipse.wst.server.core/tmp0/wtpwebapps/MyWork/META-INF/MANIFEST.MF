@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyWork
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Balaram
+Implementation-Vendor-Id: com.home.work
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyWork
+Created-By: Maven Integration for Eclipse
+

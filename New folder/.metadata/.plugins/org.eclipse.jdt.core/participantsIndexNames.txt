@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\java\New folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1447069097.index
+\spring_boot_demo\src\main\java
+E:\java\New folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1224627033.index
+\BootPractice\src\main\java
+E:\java\New folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1611127454.index
+\BootPractice\src\main\java
+E:\java\New folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2255046104.index
+\MyWork\src\main\java
+E:\java\New folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3222299967.index
+\BootDemoProject\src\main\java

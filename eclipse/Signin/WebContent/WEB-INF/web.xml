@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>signin</servlet-name>
+    <servlet-class>Signin</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>signin</servlet-name>
+    <url-pattern>/signin</url-pattern>
+</servlet-mapping>
